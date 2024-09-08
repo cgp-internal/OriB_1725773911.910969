@@ -1,0 +1,19 @@
+{
+    "index.html": {
+        "description": "A basic single-page HTML file displaying the classic 'Hello World' message using standard HTML5 semantics and structure.",
+        "exposes": [
+            "Hello World"
+        ],
+        "dependencies": {}
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide",
+        "exposes": [],
+        "dependencies": {}
+    },
+    ".gitignore": {
+        "description": ".gitignore with basic ignore rules",
+        "exposes": [],
+        "dependencies": {}
+    }
+}
